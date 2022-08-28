@@ -1,0 +1,38 @@
+#name{
+    text-align: center;
+    padding: 10%;
+    padding-top: 50px;
+    width: 500px;
+    padding: 20px;
+}
+#img{
+    padding-bottom: 1%;
+    left: 10%;
+    width: auto;
+    max-height: fit-content;
+
+}
+
+#ol{
+    text-align: 20px;
+    flex-wrap: wrap;
+}
+
+.parent{
+    margin: auto;
+    width: 30%;
+    color: coral;
+    height: 10%;
+    margin: auto;
+    padding: auto;
+    font-size: 20px;
+}
+.child {
+    font-size: 20px;
+    padding-bottom: 10%;
+    left: 34%;
+    width: 50%;
+    height: 30%;
+    position: absolute;
+    color: rgb(15, 103, 103);
+}
